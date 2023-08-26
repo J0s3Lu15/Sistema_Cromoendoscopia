@@ -2,6 +2,8 @@
 
 Este es un sistema muy versátil y funcional escrito desde cero en Python con la ayuda de Tkinter para la gestión de ventanas, TensorFlow para el entrenamiento y funcionamiento del modelo de IA, y ReportLab para la generación de informes dinámicos ricos en detalles y estilo. Su principal objetivo es el análisis de afecciones de Pólipos, Esofagitis y Úlceras, todo ello asistido por una IA y múltiples filtros de detección utilizados en el estudio.
 
+Si deseas adquirir una licencia de uso o el codigo fuente, hablame y te enviare el enlace de descarga correspondiente.
+
 ## Vistas del modelo de IA en funcionamiento:
 
 ![Ejemplo de Imagen](imagenes_vista_previa/17.jpg)
