@@ -1,23 +1,37 @@
-# Sistema_Cromoendoscopia
-Es un sistema super versátil y funcional escrito desde cero en python con ayuda de Tkinter para la gestion de las ventanas, Tensorflow para el entrenado y funcionamiento del modelo de IA y reportlab para la generacion de informes dinamicos ricos en detalles y estilo, su mayor objetivo es el análisis de afecciones de Pólipos, Esofagitis y Ulceras, todo ayudado con una IA y múltiples filtros de detección usados en el estudio.
-## Vistas del modelo de IA funcionando:
+# Sistema de Cromoendoscopia
+
+Este es un sistema muy versátil y funcional escrito desde cero en Python con la ayuda de Tkinter para la gestión de ventanas, TensorFlow para el entrenamiento y funcionamiento del modelo de IA, y ReportLab para la generación de informes dinámicos ricos en detalles y estilo. Su principal objetivo es el análisis de afecciones de Pólipos, Esofagitis y Úlceras, todo ello asistido por una IA y múltiples filtros de detección utilizados en el estudio.
+
+## Vistas del modelo de IA en funcionamiento:
+
 ![Ejemplo de Imagen](imagenes_vista_previa/17.jpg)
-## Caracteristicas:
-- Deteccion de IA en tiempo real
-- CRUD y Base de datos para doctores, pacientes e informes incluida
-- Analisis preciso de afecciones
-- Filtros configurables usados en la industria
-- Capaz de funcionar en cualquier sistema operativo, gracias a estar hecho en python puro
+
+## Características:
+
+- Detección de IA en tiempo real.
+- CRUD y base de datos para doctores, pacientes e informes incluidos.
+- Análisis preciso de afecciones.
+- Filtros configurables utilizados en la industria.
+- Capaz de funcionar en cualquier sistema operativo gracias a estar hecho en Python puro.
 
 ## Al ingresar
-Se le pedira una clave maestra, esto es para proteger el uso del programa, si desea adquirir una licencia, pongase en contacto conmigo, de igual forma si desea comprar el Codigo Fuente
+
+Se le pedirá una clave maestra. Esto es para proteger el uso del programa. Si desea adquirir una licencia, póngase en contacto conmigo. De igual forma, si desea comprar el código fuente:
+
 ![Ejemplo de Imagen](imagenes_vista_previa/1.jpg)
-Una vez dentro del programa usted tendra dos tipos de acceso, administrador y doctor
+
+Una vez dentro del programa, tendrá dos tipos de acceso: administrador y doctor.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/2.jpg)
-## Acceso Administradores
-El administrador contiene privilegios para gestionar todo, pacientes y doctores
+
+## Acceso para Administradores
+
+El administrador cuenta con privilegios para gestionar todo, pacientes y doctores.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/3.jpg)
-Puede agregar, buscar, borrar y modificar
+
+Puede agregar, buscar, borrar y modificar.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/4.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/5.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/6.jpg)
@@ -25,22 +39,38 @@ Puede agregar, buscar, borrar y modificar
 ![Ejemplo de Imagen](imagenes_vista_previa/10.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/11.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/12.jpg)
-En caso de llenar datos erroneos o dejar datos vacios, se tiene funciones de validacion que evitan eso:
+
+En caso de llenar datos erróneos o dejar datos vacíos, se tienen funciones de validación que evitan eso.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/7.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/8.jpg)
 
-## Acceso Doctores
-Como doctor usted podra Realizar Estudio, Gestionar Pacientes y Gestionar Informes
+## Acceso para Doctores
+
+Como doctor, usted podrá realizar estudios, gestionar pacientes y gestionar informes.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/13.jpg)
-Al realizar estudio se debe buscar un paciente, seleccionar un paciente o en caso de que no exista se puede agregar un paciente
+
+Al realizar un estudio, deberá buscar un paciente, seleccionar un paciente o, en caso de que no exista, agregar uno.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/14.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/15.jpg)
-Una vez dentro del estudio usted como especialista podra activar y desactivar los filtros, podra activar o desactivar la ayuda de la IA para reconocer afecciones como Polipos, Esofagitis y Ulceras que de ser activado sonara una alarma cada 5 segundos en caso de encontrar una afeccion, la deteccion por parte de la IA se realiza en tiempo real, podra tomar las fotos que crea convenientes sin importar la cantidad y podra seleccionar entre las distintas camaras o dispositivos conectados al equipo
+
+Una vez dentro del estudio, usted, como especialista, podrá activar y desactivar los filtros, activar o desactivar la ayuda de la IA para reconocer afecciones como Pólipos, Esofagitis y Úlceras. Si se activa, sonará una alarma cada 5 segundos en caso de encontrar una afección. La detección por parte de la IA se realiza en tiempo real. También podrá tomar las fotos que crea convenientes sin importar la cantidad y podrá seleccionar entre las distintas cámaras o dispositivos conectados al equipo.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/16.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/17.jpg)
-Una vez terminado el estudio, usted podra realizar el informe colocando los datos necesarios
+
+Una vez terminado el estudio, usted podrá realizar el informe colocando los datos necesarios.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/18.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/19.jpg)
-y finalmente generar el informe listo para su impresion con una plantilla altamente personalizable, de comprar una licencia o codigo fuente, usted podra cambiar el logo, los servicios, los contactos y la disposicion de los elementos
+
+Y finalmente, generar el informe listo para su impresión con una plantilla altamente personalizable. Si compra una licencia o código fuente, podrá cambiar el logotipo, los servicios, los contactos y la disposición de los elementos.
+
 ![Ejemplo de Imagen](imagenes_vista_previa/20.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/21.jpg)
+
+## Contactos:
+
+Si te gusta mi trabajo o estás buscando consultoría para tus proyectos, Pentesting, servicios de RED TEAM - BLUE TEAM, implementación de normas de seguridad e ISOs, controles IDS - IPS, gestión de SIEM, implementación de topologías de red seguras, entrenamiento e implementación de modelos de IA, desarrollo de sistemas, Apps Móviles, Diseño Gráfico, Marketing Digital y todo lo relacionado con la tecnología, no dudes en contactarme al +591 75764248 y con gusto trabajaré contigo.
