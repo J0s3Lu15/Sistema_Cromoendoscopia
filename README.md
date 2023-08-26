@@ -45,6 +45,8 @@ En caso de llenar datos erróneos o dejar datos vacíos, se tienen funciones de 
 ![Ejemplo de Imagen](imagenes_vista_previa/7.jpg)
 ![Ejemplo de Imagen](imagenes_vista_previa/8.jpg)
 
+Cabe resaltar que todos los CRUD de todas las tablas en ambos accesos, cuentan con las mismas caracteristicas de seguridad y funcionalidad.
+
 ## Acceso para Doctores
 
 Como doctor, usted podrá realizar estudios, gestionar pacientes y gestionar informes.
